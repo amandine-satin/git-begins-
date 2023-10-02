@@ -1,3 +1,4 @@
 Cloner un repository gitb clone plus le lien du depot
 Les 3 commandes de push git add . git commit -m git push
+git pull 
 
